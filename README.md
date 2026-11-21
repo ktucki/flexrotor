@@ -167,7 +167,7 @@ Questions and bug reports: GitHub issues, or karol_tucki@sggw.edu.pl. See `CONTR
 ## Licence and citation
 
 MIT licence (see `LICENSE.txt`). If you use FlexRotor, please cite the software
-(`CITATION.cff`) and the studies in which the methods were developed:
+(`CITATION.cff`; version 1.0.0: https://doi.org/10.5281/zenodo.24419296) and the studies in which the methods were developed:
 
 * K. Tucki, Ł. Gruz, L. Mieszkalski, Response of a power harrow rotor with a compliantly
   mounted tine disc to soil resistance: soil bin identification, threshold torque and
