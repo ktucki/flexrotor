@@ -3,6 +3,7 @@ message: "If you use this software, please cite it as below."
 title: "FlexRotor: design of the compliant tine disc coupling of a power harrow rotor from rotor geometry and soil bin records"
 version: 1.0.0
 date-released: 2026-11-21
+doi: 10.5281/zenodo.24419296
 license: MIT
 repository-code: "https://github.com/ktucki/flexrotor"
 authors:
