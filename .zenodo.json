@@ -1,0 +1,12 @@
+{
+  "title": "FlexRotor: design of the compliant tine disc coupling of a power harrow rotor from rotor geometry and soil bin records",
+  "upload_type": "software",
+  "description": "C++17 library and command-line program that designs the compliant tine disc coupling of a power harrow rotor. Calibration path: soil resistance torque from raw soil bin records, disc model with dry friction and end stops, identification, mean-load model. Design path: selection rule, torsion spring after EN 13906-3 with static and fatigue checks, virtual soil bin test with a synthetic soil load, tine paths, clearance and uncut soil element of a rotor row. Includes the soil bin records of the SGGW prototype rotor.",
+  "creators": [
+    {"name": "Tucki, Karol", "affiliation": "Warsaw University of Life Sciences – SGGW", "orcid": "0000-0001-7340-4100"},
+    {"name": "Gruz, Łukasz", "affiliation": "Warsaw University of Life Sciences – SGGW", "orcid": "0000-0001-8008-1899"}
+  ],
+  "license": "MIT",
+  "keywords": ["power harrow", "tillage", "soil bin", "torsional coupling", "torsion spring", "system identification", "machine design"],
+  "access_right": "open"
+}
